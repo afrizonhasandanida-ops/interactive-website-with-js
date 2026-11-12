@@ -4,7 +4,7 @@ Proyek ini merupakan lanjutan dari **Study Case Phase 1** yang berfokus pada pen
 
 ---
 
-## 📋 Deskripsi Halaman
+##  Deskripsi Halaman
 
 Proyek ini mempertahankan dua checkpoint halaman detail produk dari fase sebelumnya:
 1. **Halaman Produk 1 (Hardcoded - `index.html`)**
@@ -17,7 +17,7 @@ Proyek ini mempertahankan dua checkpoint halaman detail produk dari fase sebelum
 
 ---
 
-## ✨ Fitur Interaksi yang Diimplementasikan
+##  Fitur Interaksi yang Diimplementasikan
 
 - **Pemilihan Variasi & Galeri Produk**: Mengubah warna produk (*Matte Black*, *Gunmetal*, *Silver*) akan memperbarui label warna aktif, gambar utama, dan status thumbnail secara sinkron.
 - **Personalisasi (Custom Engraving)**: Mengaktifkan opsi *engraving* akan membuka kolom input teks (maksimal 12 karakter alfanumerik), menampilkan *live preview* pada visual produk, serta menambahkan biaya personalisasi ke total harga.
@@ -40,7 +40,7 @@ Proyek ini mempertahankan dua checkpoint halaman detail produk dari fase sebelum
 
 ---
 
-## 🚀 Cara Menjalankan Proyek
+##  Cara Menjalankan Proyek
 
 1. **Clone atau unduh repositori ini** ke komputer lokal Anda:
    ```bash
@@ -52,7 +52,7 @@ Proyek ini mempertahankan dua checkpoint halaman detail produk dari fase sebelum
 
 ---
 
-## 🧪 Cara Menguji & Tabel Skenario Pengujian
+##  Cara Menguji & Tabel Skenario Pengujian
 
 Pengujian dilakukan langsung pada browser untuk memverifikasi interaksi DOM, validasi kuantitas, dan penanganan proses asinkron.
 
